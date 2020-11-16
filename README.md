@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=60&section=header)
+![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=60&section=header&text=Hello%20World%20🌟👋&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=25)
 
 <div align=center>
  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vividswan&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  
-<h4 align="center">📚 Technology Stack 📚</h4> 
+<h3 align="center">📚 Technology Stack 📚</h4> 
 <p align="center">
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-Spring-yellow"/>&nbsp
