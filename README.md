@@ -9,8 +9,7 @@
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
   <img src="https://img.shields.io/badge/-Spring-yellow"/>&nbsp
   <img src="https://img.shields.io/badge/-SpringBoot-navy"/>&nbsp
-  <img src="https://img.shields.io/badge/-JPA-blue"/>
-  <br>
+  <img src="https://img.shields.io/badge/-JPA-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-blue"/>&nbsp
   <img src="https://img.shields.io/badge/-Mustache-red"/>&nbsp
   <img src="https://img.shields.io/badge/-Vuejs-yellow"/>&nbsp
