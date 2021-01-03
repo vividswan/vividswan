@@ -2,8 +2,6 @@
 
 <div align=center>
  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vividswan&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- 
 <h4 align="center">📚 Technology Stack 📚</h4> 
 <p align="center">
   <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
