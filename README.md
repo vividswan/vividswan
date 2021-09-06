@@ -21,6 +21,9 @@
 [![About Me](https://img.shields.io/badge/-about%20me-blue)](https://vividswan.github.io/about.html)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=vividswan)](https://solved.ac/vividswan)
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vividswan)](https://solved.ac/vividswan)
+
+
 
 </div>
 
