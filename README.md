@@ -79,7 +79,6 @@ Catholic University of Korea —  &nbsp; <em>Computer Science Information Engine
 |가톨릭대학교 SOS class|프로그래밍 실습 튜터 활동|2020|
 |데벨업 1기(groom)|수료 및 해커톤 참여|2019|
 |업사이클링 공유서비스 Todayke|활동 및 K-300 참여|2019|
-|데벨업 1기(groom)|수료 및 해커톤 참여|2019|
 
  
  <br>
