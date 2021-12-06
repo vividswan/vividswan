@@ -56,6 +56,7 @@ Catholic University of Korea —  &nbsp; <em>Computer Science Information Engine
 
 |Prize|Date|
 |:---:|:---:|
+|2021 가톨릭대학교 창업경진대회「아이템전」 우수상|2021.11|
 |2020 ACM-ICPC 예선 가톨릭대학교 교내 금상|2020.10|
 |가톨릭대 교내 해커톤 [Catholic University Hackathon Project - 극도로 한정된 세계] 최우수상|2020.07|
 |교육부, 과기부 주체 학생 창업유망팀 선정 및 K-300 출정 (업사이클링 공유서비스 Todayke)|2019.08|
