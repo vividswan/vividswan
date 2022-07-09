@@ -71,6 +71,7 @@ Catholic University of Korea —  &nbsp; <em>Computer Science Information Engine
 
 |Organization|Activity|Date|
 |:---:|:---:|:---:|
+|네이버 Main Tech|웹 개발자|2021|
 |수익형 앱 런칭 동아리 Central MakeUs Challenge 8기|백엔드 개발자|2021|
 |창업동아리 케이쿡(K.Cook) 활동|백엔드 개발자|2021|
 |삼성전자 하계 대학생 S/W 알고리즘 특강|참여 및 B형 취득|2021|
