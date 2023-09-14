@@ -14,35 +14,12 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=vividswan)](https://solved.ac/vividswan) 
  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vividswan)](https://solved.ac/vividswan)
- 
-<h4 align="center">📚 Technology Stack 📚</h4> 
-<p align="center">
-  <img src="https://img.shields.io/badge/-JAVA-orange"/>&nbsp
-  <img src="https://img.shields.io/badge/-Spring-yellow"/>&nbsp
-  <img src="https://img.shields.io/badge/-SpringBoot-navy"/>&nbsp
-  <img src="https://img.shields.io/badge/-MySQL-blue"/>&nbsp
-  <img src="https://img.shields.io/badge/-AWS-black"/>&nbsp
-  <img src="https://img.shields.io/badge/Javascri-navy"/>&nbsp
- </p>
-</div>
-<div align="center">
-<br>
+
 <h3 align="center">🏫 University 🏫</h3>
 <p align="center">
 Catholic University of Korea —  &nbsp; <em>Computer Science Information Engineering &nbsp;   MAR  2018 - FEB  2022</em>
 </p>   
 
-<h3 align="center"> 📕 Certificate 📕</h3>
-
-|Certificate|Organization|
-|:---:|:---:|
-|Engineer Information Processing (정보처리기사)|한국산업인력공단|
-|AWS Certified Cloud Practitioner (CLF-C01)|아마존|
-|삼성 S/W 역량테스트 B형 (Professional)|삼성|
-|Opic Level IL|ACTFL|
-
-<br>
- 
  
 <h3 align="center"> 🧩 Activity 🧩</h3>
 
